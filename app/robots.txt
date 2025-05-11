@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepterbaruviral.pages.dev/sitemap.xml
+Sitemap: https://bokepgb.pages.dev/sitemap.xml
